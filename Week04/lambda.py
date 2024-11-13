@@ -8,3 +8,4 @@ mult = lambda a,b: a*b
 print(mult(2,3))
 
 
+sorted()
